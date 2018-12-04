@@ -1,0 +1,22 @@
+{
+  "name": "saml-testing",
+  "version": "1.0.0",
+  "description": "A test to understand SAML Service Provider requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawyerh/saml-testing.git"
+  },
+  "keywords": [
+    "saml"
+  ],
+  "author": "sawyerh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawyerh/saml-testing/issues"
+  },
+  "homepage": "https://github.com/sawyerh/saml-testing#readme"
+}
