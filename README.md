@@ -9,6 +9,8 @@
 ## Identity Provider resources
 
 - https://auth0.com/single-sign-on
+  - https://auth0.com/docs/api/authentication?http#saml
+  - https://auth0.com/docs/protocols/saml
 - https://samlify.js.org
 - https://www.shibboleth.net
 
