@@ -1,4 +1,18 @@
-# SAML
+# SAML Service Provider example
+
+This is an example of a SAML service provider using Auth0 as identity provider.
+
+## Running locally
+
+```
+npm install
+```
+
+```
+npm start
+```
+
+Go to: [localhost:3000](http://localhost:3000)
 
 ## Service Provider resources
 
