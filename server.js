@@ -52,7 +52,6 @@ app.get(
   })
 );
 
-// Redirect loop is occurring from this...
 app.post(
   "/saml/consume",
   passport.authenticate("saml", { failureRedirect: "/", failureFlash: true }),
