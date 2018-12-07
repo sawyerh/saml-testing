@@ -1,1 +1,5 @@
-<a href="/login">Log in</a>
+<% if (user) { %>
+  Hello <%= user.email %>
+<% } else { %>
+  <a href="/login">Log in</a>
+<% } %>
